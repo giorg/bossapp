@@ -1,0 +1,71 @@
+<select name="bosskilled">
+	<option value="0">Select a boss:</option>
+	<optgroup label="Boss from Desert">
+		<option value="1">Aranaketh</option>
+		<option value="21">Kipeeketh</option>
+		<option value="24">Kipuketh</option>
+		<option value="31">Ocyketh</option>
+		<option value="32">Plodeketh</option>
+		<option value="37">Rendoketh</option>
+		<option value="39">Shalaketh</option>
+		<option value="40">Shooketh</option>
+	</optgroup>
+	<optgroup label="Boss from Lakes">
+		<option value="6">Craykan</option>
+		<option value="7">Cukan</option>
+		<option value="13">Goakan</option>
+		<option value="38">Shakan</option>
+		<option value="42">Stinkan</option>
+		<option value="43">Torkan</option>
+		<option value="47">Womkan</option>
+	</optgroup>
+	<optgroup label="Boss from Jungle">
+		<option value="52">Cratchakyo</option>
+		<option value="10">Gibbakya</option>
+		<option value="25">Kirokya</option>
+		<option value="33">Plodekya</option>
+		<option value="41">Slavekya</option>
+		<option value="46">Wombakya</option>
+		<option value="50">Yetikya</option>
+	</optgroup>
+	<optgroup label="Boss from Forest">
+		<option value="2">Aranakin</option>
+		<option value="4">Bolkin</option>
+		<option value="5">Cratchakin</option>
+		<option value="8">Cuttlekin</option>
+		<option value="9">Gibbakin</option>
+		<option value="11">Ginkin</option>
+		<option value="12">Gnookin</option>
+		<option value="20">Kinkoo</option>
+		<option value="26">Kizokin</option>
+		<option value="51">Lumpkoo</option>
+		<option value="27">Madakin</option>
+		<option value="35">Ragukin</option>
+	</optgroup>
+	<optgroup label="Boss from Prime Roots">
+		<option value="3">Armkoo</option>
+		<option value="14">Gubakoo</option>
+		<option value="15">Izakoo</option>
+		<option value="16">Jugukoo</option>
+		<option value="17">Jukoo</option>
+		<option value="18">Kibakoo</option>
+		<option value="19">Kidikoo</option>
+		<option value="20">Kinkoo</option>
+		<option value="22">Kipeekoo</option>
+		<option value="23">Kipekoo</option>
+		<option value="53">Kizokoo</option>
+		<option value="51">Lumpkoo</option>
+		<option value="28">Madakoo</option>
+		<option value="29">Mekoo</option>
+		<option value="30">Najakoo</option>
+		<option value="34">Psykokoo</option>
+		<option value="36">Rakoo</option>
+		<option value="44">Tyrakoo</option>
+		<option value="45">Varykoo</option>
+		<option value="48">Vorkoo</option>
+		<option value="49">Yelkoo</option>
+	</optgroup>
+	<optgroup label="Not listed">        
+       		<option value="54">Not yet on the list</option>
+	</optgroup>            
+</select>
